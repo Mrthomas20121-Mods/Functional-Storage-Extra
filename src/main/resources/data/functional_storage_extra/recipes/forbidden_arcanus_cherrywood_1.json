@@ -1,0 +1,41 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "functionalstorage:forbidden_arcanus_cherrywood_1"
+            },
+            {
+              "type": "forge:mod_loaded",
+              "modid": "forbidden_arcanus"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "C": {
+            "tag": "forge:chests/wooden"
+          },
+          "P": {
+            "item": "forbidden_arcanus:cherrywood_planks"
+          }
+        },
+        "pattern": [
+          "PPP",
+          "PCP",
+          "PPP"
+        ],
+        "result": {
+          "item": "functionalstorage:forbidden_arcanus_cherrywood_1"
+        }
+      }
+    }
+  ]
+}

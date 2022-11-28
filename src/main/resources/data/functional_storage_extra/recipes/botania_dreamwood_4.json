@@ -1,0 +1,42 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "functionalstorage:botania_dreamwood_4"
+            },
+            {
+              "type": "forge:mod_loaded",
+              "modid": "botania"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "C": {
+            "tag": "forge:chests/wooden"
+          },
+          "P": {
+            "item": "botania:dreamwood_planks"
+          }
+        },
+        "pattern": [
+          "CPC",
+          "PPP",
+          "CPC"
+        ],
+        "result": {
+          "count": 4,
+          "item": "functionalstorage:botania_dreamwood_4"
+        }
+      }
+    }
+  ]
+}

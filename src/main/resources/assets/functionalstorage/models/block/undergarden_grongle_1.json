@@ -1,0 +1,8 @@
+{
+  "parent": "functionalstorage:block/base_x_1",
+  "textures": {
+    "particle": "functionalstorage:blocks/undergarden_grongle_front_1",
+    "front": "functionalstorage:blocks/undergarden_grongle_front_1",
+    "side": "functionalstorage:blocks/undergarden_grongle_side"
+  }
+}

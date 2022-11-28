@@ -1,0 +1,42 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "functionalstorage:architects_palette_twisted_4"
+            },
+            {
+              "type": "forge:mod_loaded",
+              "modid": "architects_palette"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "C": {
+            "tag": "forge:chests/wooden"
+          },
+          "P": {
+            "item": "architects_palette:twisted_planks"
+          }
+        },
+        "pattern": [
+          "CPC",
+          "PPP",
+          "CPC"
+        ],
+        "result": {
+          "count": 4,
+          "item": "functionalstorage:architects_palette_twisted_4"
+        }
+      }
+    }
+  ]
+}

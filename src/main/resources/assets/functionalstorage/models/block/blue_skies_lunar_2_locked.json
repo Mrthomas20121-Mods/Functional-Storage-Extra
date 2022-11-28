@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/blue_skies_lunar_2",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

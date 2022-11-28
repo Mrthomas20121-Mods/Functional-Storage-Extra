@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/tconstruct_nahuatl_4",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

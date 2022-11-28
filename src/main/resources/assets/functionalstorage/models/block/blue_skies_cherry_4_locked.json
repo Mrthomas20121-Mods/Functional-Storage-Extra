@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/blue_skies_cherry_4",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

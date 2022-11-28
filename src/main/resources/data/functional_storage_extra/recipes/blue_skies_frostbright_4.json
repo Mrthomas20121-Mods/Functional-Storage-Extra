@@ -1,0 +1,42 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "functionalstorage:blue_skies_frostbright_4"
+            },
+            {
+              "type": "forge:mod_loaded",
+              "modid": "blue_skies"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "C": {
+            "tag": "forge:chests/wooden"
+          },
+          "P": {
+            "item": "blue_skies:frostbright_planks"
+          }
+        },
+        "pattern": [
+          "CPC",
+          "PPP",
+          "CPC"
+        ],
+        "result": {
+          "count": 4,
+          "item": "functionalstorage:blue_skies_frostbright_4"
+        }
+      }
+    }
+  ]
+}

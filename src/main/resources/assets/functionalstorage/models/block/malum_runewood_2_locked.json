@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/malum_runewood_2",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

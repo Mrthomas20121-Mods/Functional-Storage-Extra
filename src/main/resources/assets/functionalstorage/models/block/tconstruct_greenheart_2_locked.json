@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/tconstruct_greenheart_2",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

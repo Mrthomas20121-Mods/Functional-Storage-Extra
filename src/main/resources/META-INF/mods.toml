@@ -1,0 +1,130 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+license = "MIT License"
+issueTrackerURL = "https://github.com/Mrthomas20121/Tinkers-Reforged/issues"
+
+[[mods]]
+modId = "functional_storage_extra"
+version = "1.0.0"
+displayName = "Functional Storage Extra"
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/tinkers-reforged"
+#logoFile="functional_storage_extra_logo.png"
+credits = "Functional Storage Dev"
+authors = "Mrthomas20121"
+description = '''
+Add Mobs compat to Functional Storage
+'''
+
+[[dependencies.functional_storage_extra]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[40,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="byg"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="tconstruct"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="undergarden"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="twilightforest"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="naturesaura"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="malum"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="immersiveengineering"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="hexerei"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="forcecraft"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="forbidden_arcanus"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="botania"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="blue_skies"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="biomesoplenty"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="ars_nouveau"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="architects_palette"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="functionalstorage"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="BEFORE"
+    side="BOTH"
