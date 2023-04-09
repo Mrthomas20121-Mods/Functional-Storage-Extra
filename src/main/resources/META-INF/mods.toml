@@ -33,49 +33,97 @@ Add Mobs compat to Functional Storage
     ordering="NONE"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
+    modId="ad_astra"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="atmospheric"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="ars_nouveau"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="atlantis"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="autumnity"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="biomemakeover"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="biomesoplenty"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="blue_skies"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="botania"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
     modId="byg"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
-    modId="tconstruct"
+    modId="deeperdarker"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
-    modId="undergarden"
+    modId="dreamland"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
-    modId="twilightforest"
+    modId="ecologics"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
-    modId="naturesaura"
+    modId="environmental"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
-    modId="malum"
+    modId="evilcraft"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
-    modId="immersiveengineering"
-    mandatory=false
-    versionRange="[0,)"
-    ordering="AFTER"
-    side="BOTH"
-[[dependencies.functional_storage_extra]]
-    modId="hexerei"
+    modId="feywild"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
@@ -93,31 +141,67 @@ Add Mobs compat to Functional Storage
     ordering="AFTER"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
-    modId="botania"
+    modId="gardens_of_the_dead"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
-    modId="blue_skies"
+    modId="hexerei"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
-    modId="biomesoplenty"
+    modId="hexcasting"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
-    modId="ars_nouveau"
+    modId="naturesaura"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
-    modId="architects_palette"
+    modId="premium_wood"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="quark"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="theabyss"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="totemic"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="twilightforest"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="undergarden"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="vampirism"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
