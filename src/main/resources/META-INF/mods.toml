@@ -12,7 +12,7 @@ displayURL = "https://www.curseforge.com/minecraft/mc-mods/tinkers-reforged"
 credits = "Functional Storage Dev"
 authors = "Mrthomas20121"
 description = '''
-Add Mobs compat to Functional Storage
+Add Drawers made from other mods's wood.
 '''
 
 [[dependencies.functional_storage_extra]] #optional
