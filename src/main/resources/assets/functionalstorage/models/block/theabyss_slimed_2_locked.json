@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/theabyss_slimed_2",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

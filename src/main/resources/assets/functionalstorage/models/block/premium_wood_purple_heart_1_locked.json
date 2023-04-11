@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/premium_wood_purple_heart_1",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

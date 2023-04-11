@@ -1,8 +1,0 @@
-{
-  "parent": "functionalstorage:block/base_x_2",
-  "textures": {
-    "particle": "functionalstorage:blocks/malum_runewood_front_2",
-    "front": "functionalstorage:blocks/malum_runewood_front_2",
-    "side": "functionalstorage:blocks/malum_runewood_side"
-  }
-}

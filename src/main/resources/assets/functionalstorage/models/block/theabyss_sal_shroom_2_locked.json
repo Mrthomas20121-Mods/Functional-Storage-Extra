@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/theabyss_sal_shroom_2",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

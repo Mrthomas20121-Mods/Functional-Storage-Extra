@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/architects_palette_twisted_4",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

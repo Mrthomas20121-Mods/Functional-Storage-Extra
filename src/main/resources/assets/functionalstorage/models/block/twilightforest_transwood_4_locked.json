@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/twilightforest_transwood_4",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

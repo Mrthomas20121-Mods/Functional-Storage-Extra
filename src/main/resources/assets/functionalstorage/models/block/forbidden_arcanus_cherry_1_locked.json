@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/forbidden_arcanus_cherry_1",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

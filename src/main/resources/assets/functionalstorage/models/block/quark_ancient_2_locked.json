@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/quark_ancient_2",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

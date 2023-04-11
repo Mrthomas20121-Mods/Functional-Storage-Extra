@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/autumnity_maple_1",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

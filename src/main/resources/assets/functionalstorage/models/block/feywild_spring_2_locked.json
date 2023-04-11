@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/feywild_spring_2",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

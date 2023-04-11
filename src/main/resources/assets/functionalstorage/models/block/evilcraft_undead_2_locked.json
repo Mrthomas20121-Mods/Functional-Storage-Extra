@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/evilcraft_undead_2",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

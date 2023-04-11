@@ -1,0 +1,8 @@
+{
+  "parent": "functionalstorage:block/base_x_1",
+  "textures": {
+    "particle": "functionalstorage:blocks/twilightforest_dark_front_1",
+    "front": "functionalstorage:blocks/twilightforest_dark_front_1",
+    "side": "functionalstorage:blocks/twilightforest_dark_side"
+  }
+}

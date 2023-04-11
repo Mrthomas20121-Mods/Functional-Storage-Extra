@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/theabyss_rotten_4",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

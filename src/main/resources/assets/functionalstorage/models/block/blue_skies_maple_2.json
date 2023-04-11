@@ -1,8 +1,0 @@
-{
-  "parent": "functionalstorage:block/base_x_2",
-  "textures": {
-    "particle": "functionalstorage:blocks/blue_skies_maple_front_2",
-    "front": "functionalstorage:blocks/blue_skies_maple_front_2",
-    "side": "functionalstorage:blocks/blue_skies_maple_side"
-  }
-}

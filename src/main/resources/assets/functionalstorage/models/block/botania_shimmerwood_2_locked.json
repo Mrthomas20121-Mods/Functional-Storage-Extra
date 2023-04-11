@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/botania_shimmerwood_2",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

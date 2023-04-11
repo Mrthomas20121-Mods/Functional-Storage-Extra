@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/ars_nouveau_cascading_archwood_2",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

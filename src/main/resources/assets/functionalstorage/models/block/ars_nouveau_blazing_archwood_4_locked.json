@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/ars_nouveau_blazing_archwood_4",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

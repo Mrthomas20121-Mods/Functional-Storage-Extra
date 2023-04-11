@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/forbidden_arcanus_mysterywood_2",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

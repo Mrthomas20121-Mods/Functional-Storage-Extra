@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/immersiveengineering_treated_wood_4",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

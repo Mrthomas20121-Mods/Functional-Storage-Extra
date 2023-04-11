@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/gardens_of_the_dead_soul_blight_4",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}
