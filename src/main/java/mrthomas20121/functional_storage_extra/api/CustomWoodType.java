@@ -1,17 +1,18 @@
 package mrthomas20121.functional_storage_extra.api;
 
-import com.buuz135.functionalstorage.FunctionalStorage;
 import com.buuz135.functionalstorage.util.IWoodType;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.registries.ForgeRegistries;
 
-import java.util.Arrays;
-import java.util.List;
-
 public enum CustomWoodType implements IWoodType {
 
+    aether_skyroot("aether", "skyroot_log", "skyroot_planks"),
+    aether_redux_blightwillow("aether_redux", "blightwillow_log", "blightwillow_planks"),
+    aether_redux_crystal("aether_redux", "crystal_log", "crystal_planks"),
+    aether_redux_glacia("aether_redux", "glacia_log", "glacia_planks"),
+    aether_redux_prismatic("aether_redux", "prismatic_log", "prismatic_planks"),
     ad_astra_aeronos("ad_astra", "aeronos_stem", "aeronos_planks"),
     ad_astra_strophar("ad_astra", "strophar_stem", "strophar_planks"),
     ad_astra_glacian("ad_astra", "glacian_log", "glacian_planks"),
@@ -25,6 +26,7 @@ public enum CustomWoodType implements IWoodType {
     ars_nouveau_vexing_archwood("ars_nouveau", "red_archwood_log", "archwood_planks"),
     ars_nouveau_blazing_archwood("ars_nouveau", "red_archwood_log", "archwood_planks"),
     ars_nouveau_flourishing_archwood("ars_nouveau", "green_archwood_log", "archwood_planks"),
+    ars_elemental_flashing_archwood("ars_elemental", "yellow_archwood_log", "archwood_planks"),
     atlantis_atlantean("atlantis", "atlantean_log", "atlantean_planks"),
     autumnity_maple("autumnity", "maple_log", "maple_planks"),
     biomemakeover_blighted_balsa("biomemakeover", "blighted_balsa_log", "blighted_balsa_planks"),
@@ -118,8 +120,8 @@ public enum CustomWoodType implements IWoodType {
     quark_azalea("quark", "azalea_log", "azalea_planks"),
     quark_ancient("quark", "ancient_log", "ancient_planks"),
     theabyss_blaru("theabyss", "blaru_log", "blaru_planks"),
-    theabyss_jungle("theabyss", "jungle_log", "jungle_planks"),
     theabyss_bog_shroom("theabyss", "bog_shroom_log", "bog_shroom_planks"),
+    theabyss_nightgrove("theabyss", "nightgrove_log", "nightgrove_planks"),
     theabyss_rotten("theabyss", "rotten_log", "rotten_planks"),
     theabyss_sal_shroom("theabyss", "sal_shroom_log", "sal_shroom_planks"),
     theabyss_slimed("theabyss", "slimed_log", "slimed_planks"),
@@ -147,10 +149,6 @@ public enum CustomWoodType implements IWoodType {
         this.modID = modID;
         this.logName = logName;
         this.plankName = plankName;
-    }
-
-    CustomWoodType(String modID, String plankName) {
-        this(modID, plankName, plankName);
     }
 
     @Override
