@@ -5,7 +5,7 @@ issueTrackerURL = "https://github.com/Mrthomas20121/Tinkers-Reforged/issues"
 
 [[mods]]
 modId = "functional_storage_extra"
-version = "1.0.1"
+version = "1.0.3"
 displayName = "Functional Storage Extra"
 displayURL = "https://www.curseforge.com/minecraft/mc-mods/tinkers-reforged"
 #logoFile="functional_storage_extra_logo.png"
@@ -33,6 +33,18 @@ Add Drawers made from other mods's wood.
     ordering="NONE"
     side="BOTH"
 [[dependencies.functional_storage_extra]]
+    modId="aether"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="aether_redux"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
     modId="ad_astra"
     mandatory=false
     versionRange="[0,)"
@@ -46,6 +58,12 @@ Add Drawers made from other mods's wood.
     side="BOTH"
 [[dependencies.functional_storage_extra]]
     modId="ars_nouveau"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="ars_elemental"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
@@ -88,6 +106,12 @@ Add Drawers made from other mods's wood.
     side="BOTH"
 [[dependencies.functional_storage_extra]]
     modId="byg"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.functional_storage_extra]]
+    modId="deep_aether"
     mandatory=false
     versionRange="[0,)"
     ordering="AFTER"
