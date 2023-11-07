@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/regions_unexplored_dead_2",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

@@ -170,63 +170,15 @@
       "required": false
     },
     {
-      "id": "functionalstorage:ars_nouveau_cascading_archwood_4",
+      "id": "functionalstorage:ars_nouveau_archwood_4",
       "required": false
     },
     {
-      "id": "functionalstorage:ars_nouveau_cascading_archwood_2",
+      "id": "functionalstorage:ars_nouveau_archwood_2",
       "required": false
     },
     {
-      "id": "functionalstorage:ars_nouveau_cascading_archwood_1",
-      "required": false
-    },
-    {
-      "id": "functionalstorage:ars_nouveau_vexing_archwood_4",
-      "required": false
-    },
-    {
-      "id": "functionalstorage:ars_nouveau_vexing_archwood_2",
-      "required": false
-    },
-    {
-      "id": "functionalstorage:ars_nouveau_vexing_archwood_1",
-      "required": false
-    },
-    {
-      "id": "functionalstorage:ars_nouveau_blazing_archwood_4",
-      "required": false
-    },
-    {
-      "id": "functionalstorage:ars_nouveau_blazing_archwood_2",
-      "required": false
-    },
-    {
-      "id": "functionalstorage:ars_nouveau_blazing_archwood_1",
-      "required": false
-    },
-    {
-      "id": "functionalstorage:ars_nouveau_flourishing_archwood_4",
-      "required": false
-    },
-    {
-      "id": "functionalstorage:ars_nouveau_flourishing_archwood_2",
-      "required": false
-    },
-    {
-      "id": "functionalstorage:ars_nouveau_flourishing_archwood_1",
-      "required": false
-    },
-    {
-      "id": "functionalstorage:ars_elemental_flashing_archwood_4",
-      "required": false
-    },
-    {
-      "id": "functionalstorage:ars_elemental_flashing_archwood_2",
-      "required": false
-    },
-    {
-      "id": "functionalstorage:ars_elemental_flashing_archwood_1",
+      "id": "functionalstorage:ars_nouveau_archwood_1",
       "required": false
     },
     {
@@ -1331,6 +1283,270 @@
     },
     {
       "id": "functionalstorage:quark_ancient_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_baobab_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_baobab_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_baobab_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_blackwood_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_blackwood_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_blackwood_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_blue_bioshroom_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_blue_bioshroom_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_blue_bioshroom_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_brimwood_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_brimwood_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_brimwood_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_cobalt_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_cobalt_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_cobalt_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_cypress_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_cypress_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_cypress_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_dead_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_dead_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_dead_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_eucalyptus_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_eucalyptus_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_eucalyptus_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_green_bioshroom_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_green_bioshroom_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_green_bioshroom_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_joshua_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_joshua_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_joshua_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_kapok_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_kapok_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_kapok_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_larch_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_larch_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_larch_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_magnolia_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_magnolia_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_magnolia_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_maple_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_maple_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_maple_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_mauve_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_mauve_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_mauve_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_palm_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_palm_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_palm_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_pine_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_pine_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_pine_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_pink_bioshroom_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_pink_bioshroom_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_pink_bioshroom_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_redwood_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_redwood_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_redwood_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_socotra_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_socotra_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_socotra_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_willow_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_willow_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_willow_1",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_yellow_bioshroom_4",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_yellow_bioshroom_2",
+      "required": false
+    },
+    {
+      "id": "functionalstorage:regions_unexplored_yellow_bioshroom_1",
       "required": false
     },
     {

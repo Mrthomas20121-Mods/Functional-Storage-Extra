@@ -1,0 +1,38 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "forge:item_exists",
+              "item": "functionalstorage:premium_wood_purple_heart_2"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "C": {
+            "tag": "forge:chests/wooden"
+          },
+          "P": {
+            "item": "premium_wood:purple_heart_planks"
+          }
+        },
+        "pattern": [
+          "PCP",
+          "PPP",
+          "PCP"
+        ],
+        "result": {
+          "count": 2,
+          "item": "functionalstorage:premium_wood_purple_heart_2"
+        }
+      }
+    }
+  ]
+}

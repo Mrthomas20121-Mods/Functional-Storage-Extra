@@ -1,0 +1,6 @@
+{
+  "parent": "functionalstorage:block/regions_unexplored_green_bioshroom_4",
+  "textures": {
+    "lock_icon": "functionalstorage:blocks/lock"
+  }
+}

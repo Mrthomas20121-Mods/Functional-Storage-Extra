@@ -1,8 +1,0 @@
-{
-  "parent": "functionalstorage:block/base_x_2",
-  "textures": {
-    "particle": "functionalstorage:blocks/ars_elemental_flashing_archwood_front_2",
-    "front": "functionalstorage:blocks/ars_elemental_flashing_archwood_front_2",
-    "side": "functionalstorage:blocks/ars_elemental_flashing_archwood_side"
-  }
-}
