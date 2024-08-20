@@ -1,8 +1,0 @@
-{
-  "parent": "functionalstorage:block/base_x_2",
-  "textures": {
-    "particle": "functionalstorage:blocks/quark_blossom_front_2",
-    "front": "functionalstorage:blocks/quark_blossom_front_2",
-    "side": "functionalstorage:blocks/quark_blossom_side"
-  }
-}

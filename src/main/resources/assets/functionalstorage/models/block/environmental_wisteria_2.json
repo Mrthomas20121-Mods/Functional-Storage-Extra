@@ -1,8 +1,0 @@
-{
-  "parent": "functionalstorage:block/base_x_2",
-  "textures": {
-    "particle": "functionalstorage:blocks/environmental_wisteria_front_2",
-    "front": "functionalstorage:blocks/environmental_wisteria_front_2",
-    "side": "functionalstorage:blocks/environmental_wisteria_side"
-  }
-}

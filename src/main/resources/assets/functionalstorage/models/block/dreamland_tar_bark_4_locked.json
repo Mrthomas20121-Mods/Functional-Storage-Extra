@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/dreamland_tar_bark_4",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/ad_astra_glacian_4",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

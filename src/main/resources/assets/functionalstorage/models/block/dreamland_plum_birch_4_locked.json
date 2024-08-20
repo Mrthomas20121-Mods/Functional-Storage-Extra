@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/dreamland_plum_birch_4",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

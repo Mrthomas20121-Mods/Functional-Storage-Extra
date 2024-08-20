@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/ecologics_coconut_2",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/biomesoplenty_umbran_2",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

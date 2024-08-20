@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/ad_astra_strophar_2",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

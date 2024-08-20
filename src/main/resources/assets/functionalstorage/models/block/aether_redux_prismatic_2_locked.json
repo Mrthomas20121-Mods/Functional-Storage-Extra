@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/aether_redux_prismatic_2",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

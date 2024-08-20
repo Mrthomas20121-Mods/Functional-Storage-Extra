@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/biomesoplenty_cherry_2",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/premium_wood_tiger_4",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

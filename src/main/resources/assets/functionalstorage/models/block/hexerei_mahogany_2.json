@@ -1,8 +1,0 @@
-{
-  "parent": "functionalstorage:block/base_x_2",
-  "textures": {
-    "particle": "functionalstorage:blocks/hexerei_mahogany_front_2",
-    "front": "functionalstorage:blocks/hexerei_mahogany_front_2",
-    "side": "functionalstorage:blocks/hexerei_mahogany_side"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "functionalstorage:block/totemic_red_cedar_4",
-  "textures": {
-    "lock_icon": "functionalstorage:blocks/lock"
-  }
-}

@@ -155,6 +155,8 @@ public enum CustomWoodType implements IWoodType {
     vampirism_dark_spruce("vampirism", "dark_spruce_log", "dark_spruce_planks"),
     vampirism_cursed_spruce("vampirism", "cursed_spruce_log", "cursed_spruce_planks");
 
+    public static CustomWoodType[] VALUES = values();
+
     private final String modID;
     private final String logName;
     private final String plankName;
@@ -182,5 +184,9 @@ public enum CustomWoodType implements IWoodType {
 
     public boolean isModLoaded() {
         return ModList.get().isLoaded(this.modID);
+    }
+
+    public String getModID() {
+        return modID;
     }
 }
