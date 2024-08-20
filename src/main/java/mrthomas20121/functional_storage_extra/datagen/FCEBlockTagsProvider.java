@@ -22,7 +22,7 @@ public class FCEBlockTagsProvider extends BlockTagsProvider {
         TagAppender<Block> axeMineable = this.tag(BlockTags.MINEABLE_WITH_AXE);
         for (CustomWoodType woodType: CustomWoodType.VALUES) {
             for (FunctionalStorage.DrawerType type: FunctionalStorage.DrawerType.values()) {
-                String blockName = "%s_%s_%s".formatted(woodType.getModID(), woodType.getName(), type.getSlots());
+                String blockName = "%s_%s".formatted(woodType.getName(), type.getSlots());
                 axeMineable.addOptional(new ResourceLocation(FunctionalStorage.MOD_ID, blockName));
             }
         }

@@ -48,7 +48,7 @@ public class FCEDataGenerator {
 
         for (CustomWoodType woodType: CustomWoodType.VALUES) {
             for (FunctionalStorage.DrawerType type : FunctionalStorage.DrawerType.values()) {
-                String blockName = "%s_%s_%s".formatted(woodType.getModID(), woodType.getName(), type.getSlots());
+                String blockName = "%s_%s".formatted(woodType.getName(), type.getSlots());
                 blocks.add(ForgeRegistries.BLOCKS.getValue(new ResourceLocation(MOD_ID, blockName)));
             }
         }

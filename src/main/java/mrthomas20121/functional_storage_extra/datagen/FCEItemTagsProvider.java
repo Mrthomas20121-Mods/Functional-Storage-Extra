@@ -31,7 +31,7 @@ public class FCEItemTagsProvider extends ItemTagsProvider {
         TagsProvider.TagAppender<Item> drawerTag = this.tag(StorageTags.DRAWER);
         for (CustomWoodType woodType: CustomWoodType.VALUES) {
             for (FunctionalStorage.DrawerType type: FunctionalStorage.DrawerType.values()) {
-                String blockName = "%s_%s_%s".formatted(woodType.getModID(), woodType.getName(), type.getSlots());
+                String blockName = "%s_%s".formatted(woodType.getName(), type.getSlots());
                 drawerTag.addOptional(new ResourceLocation(FunctionalStorage.MOD_ID, blockName));
             }
         }

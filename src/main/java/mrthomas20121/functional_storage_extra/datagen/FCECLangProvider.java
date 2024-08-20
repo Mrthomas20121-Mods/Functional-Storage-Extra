@@ -22,9 +22,10 @@ public class FCECLangProvider extends LanguageProvider {
     protected void addTranslations() {
         for (CustomWoodType woodType: CustomWoodType.VALUES) {
             for (FunctionalStorage.DrawerType type: FunctionalStorage.DrawerType.values()) {
-                String blockName = "%s_%s_%s".formatted(woodType.getModID(), woodType.getName(), type.getSlots());
-                String name = "%s %s %s".formatted(WordUtils.capitalize(woodType.getModID()), WordUtils.capitalize(woodType.getName()), type.getSlots());
-                this.add(Objects.requireNonNull(ForgeRegistries.BLOCKS.getValue(new ResourceLocation(FunctionalStorage.MOD_ID, blockName))), name);
+                String blockName = "%s_%s".formatted(woodType.getName(), type.getSlots());
+                String name = "%s %s".formatted(WordUtils.capitalize(woodType.getName()), type.getSlots());
+                FunctionalStorageExtra.LOGGER.info(blockName);
+                this.add(ForgeRegistries.BLOCKS.getValue(new ResourceLocation(FunctionalStorage.MOD_ID, blockName)), name);
             }
         }
     }
